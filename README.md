@@ -10,7 +10,7 @@
 
 |  | student emoji | student comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| your name | your emoji | your comments | | |
+| ebru ispir | :white_check_mark: | well done | | |
 
 ___
 ___
